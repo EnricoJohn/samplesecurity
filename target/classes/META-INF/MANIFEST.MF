@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Enrico
+Build-Jdk: 13.0.1
+Implementation-Title: SecuritySample
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.enrico.rest.security
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Sample
+Created-By: Maven Integration for Eclipse
+
